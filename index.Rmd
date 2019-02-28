@@ -1,0 +1,5 @@
+---
+  title: "Brief Biography"
+---
+  
+  Kellie is a PhD graduate student in Statistics at Iowa State University where she currently works as a statistical consultant for the College of Life Sciences. Her research interests include hierarchical models, Bayesian statistical inference, and generalized linear models. She most enjoys how a well-formed statistical model can provide insight through interpretable output into both business and scientific questions of interest. Visualizations and clear programming aid in the communication of model findings and reproduction.

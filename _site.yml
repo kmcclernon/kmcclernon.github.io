@@ -1,0 +1,13 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "Kellie McClernon"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Consulting"
+      href: var_select.html
+output:
+  html_document:
+    theme: sandstone
